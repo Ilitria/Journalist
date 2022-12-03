@@ -8,4 +8,11 @@
         }
     };
 }());
-
+(function($) {
+    $.fn.goTo = function() {
+        $('html, body').animate({
+            scrollTop: ($(this).offset().top - 140)  + 'px'
+        }, 'fast');
+        return this; // for chaining...
+    }
+})(jQuery);
