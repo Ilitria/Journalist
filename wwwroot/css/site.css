@@ -244,6 +244,7 @@ a:active{
 
 .intro__wrapper{
   margin-left: auto;
+  margin-bottom: 20px;
   width: 511px;
 }
 
@@ -253,4 +254,120 @@ a:active{
 
 .intro__email{
   margin-right: 44px;
+}
+
+/*Index page*/
+
+/*Inf block*/
+
+.information{
+  margin-bottom: 160px;
+}
+
+.information__wrapper{
+  margin-bottom: 100px;
+  height: 580px;
+  background-color: #FFFFFF;
+  box-shadow: 0px 0px 4px 5px rgba(0, 0, 0, 0.28);
+}
+
+.information__title{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 61px;
+  padding-top: 40px;
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.information__contents{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: auto 0;
+}
+
+.information__content-title{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 49px;
+  color: #000000;
+}
+
+.information__prize-all{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 100px;
+  line-height: 122px;
+  margin-bottom: 4px;
+  color: #F57B01;
+}
+
+.information__prize{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 49px;
+  color: #000000;
+}
+
+.information__who{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 28px;
+  line-height: 34px;
+  color: #000000;
+}
+
+.information__content{
+  width: 622px;
+}
+
+
+
+
+/* Footer */
+
+.footer{
+  background: #9F9F9F;
+  height: 150px;
+  margin-top: 130px;
+}
+
+.footer__logo{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 21px;
+}
+
+.footer__icon{
+  margin-right: 14px;
+}
+
+.footer__wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.footer__content{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
+}
+
+.content__margin{
+  margin-top: 22px;
 }

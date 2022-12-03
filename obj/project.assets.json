@@ -3230,11 +3230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Хакатон\\Journalist-1\\Journalist.csproj",
+      "projectUniqueName": "D:\\Хакатон\\Journalist\\Journalist.csproj",
       "projectName": "Journalist",
-      "projectPath": "D:\\Хакатон\\Journalist-1\\Journalist.csproj",
+      "projectPath": "D:\\Хакатон\\Journalist\\Journalist.csproj",
       "packagesPath": "C:\\Users\\alexf\\.nuget\\packages\\",
-      "outputPath": "D:\\Хакатон\\Journalist-1\\obj\\",
+      "outputPath": "D:\\Хакатон\\Journalist\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
