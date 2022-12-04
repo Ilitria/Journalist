@@ -1,6 +1,7 @@
 {
   "Files": [
     {
+<<<<<<< HEAD
       "Id": "D:\\CS\\Journalist\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Journalist.bundle.scp.css",
       "PackagePath": "staticwebassets\\Journalist.bundle.scp.css"
     },
@@ -406,6 +407,413 @@
     },
     {
       "Id": "D:\\CS\\Journalist\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+=======
+      "Id": "C:\\Journalist\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Journalist.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Journalist.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-300.eot",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-300.eot"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-300.svg",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-300.svg"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-300.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-300.ttf"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-300.woff",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-300.woff"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-300.woff2",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-300.woff2"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-500.eot",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-500.eot"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-500.svg",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-500.svg"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-500.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-500.ttf"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-500.woff",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-500.woff"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-500.woff2",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-500.woff2"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-600.eot",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-600.eot"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-600.svg",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-600.svg"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-600.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-600.ttf"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-600.woff",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-600.woff"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-600.woff2",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-600.woff2"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-700.eot",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-700.eot"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-700.svg",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-700.svg"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-700.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-700.ttf"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-700.woff",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-700.woff"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-700.woff2",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-700.woff2"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-regular.eot"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-regular.svg"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-regular.ttf"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-regular.woff"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\montserrat-v25-latin_cyrillic-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\montserrat-v25-latin_cyrillic-regular.woff2"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\playfair-display-v30-cyrillic-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\playfair-display-v30-cyrillic-regular.eot"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\playfair-display-v30-cyrillic-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\playfair-display-v30-cyrillic-regular.svg"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\playfair-display-v30-cyrillic-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\playfair-display-v30-cyrillic-regular.ttf"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\playfair-display-v30-cyrillic-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\playfair-display-v30-cyrillic-regular.woff"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\fonts\\playfair-display-v30-cyrillic-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\playfair-display-v30-cyrillic-regular.woff2"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\images\\svg\\Email.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Email.svg"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\images\\svg\\Telegram.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Telegram.svg"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\images\\svg\\VK.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\VK.svg"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\images\\svg\\Whatsup.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Whatsup.svg"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\images\\svg\\Вход.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Вход.svg"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\images\\svg\\Минцифры.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Минцифры.svg"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\images\\svg\\Телефон.svg",
+      "PackagePath": "staticwebassets\\images\\svg\\Телефон.svg"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\images\\Заявка.png",
+      "PackagePath": "staticwebassets\\images\\Заявка.png"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\images\\Контакты.png",
+      "PackagePath": "staticwebassets\\images\\Контакты.png"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\images\\Фон.jpg",
+      "PackagePath": "staticwebassets\\images\\Фон.jpg"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\images\\Этапы.png",
+      "PackagePath": "staticwebassets\\images\\Этапы.png"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Journalist\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+>>>>>>> origin/AddDbConnection-v1
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
