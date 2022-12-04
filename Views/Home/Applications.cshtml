@@ -1,6 +1,10 @@
-﻿@{
+﻿@model IEnumerable<Journalist.Models.Entry>
+
+@{
     ViewData["Title"] = "Заявки";
 }
+
+<header></header>
 
 <section class="applications">
     <div class="wrapper">
@@ -18,14 +22,74 @@
             </div>
 
             <div class="applications__line"></div>
-
+    
             <div class="applications__content">
-                <div class="applications_aplications-table">
-                    
-                </div>
-                <div class="applications__aplications-update">
+                <div class="row">
+                    <div class="col-md-8 offset-md-2">
+                        <h1>Заявки</h1>
 
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Authors)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Post)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.WorkPlace)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.ThemeOfWork )
+                                    </th>
+                                    <th>
+                                        <a asp-action="AddOrEdit" class="btn btn-sm btn-success">
+                                            <i class="fa-solid fa-plus"></i> New
+                                        </a>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Authors)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Post)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.WorkPlace)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.ThemeOfWork)
+                                        </td>
+                                        <td>
+                                            <form asp-action="Delete" asp-route-id="@item.Id">
+                                                <div class="btn-group btn-group-sm">
+                                                    <a asp-action="AddOrEdit" asp-route-id="@item.Id" class="btn btn-warning">
+                                                        <i class="fa-solid fa-pen-to-square"></i>
+                                                    </a>
+                                                    <button type="submit" class="btn btn-danger"
+                                                        onclick="return confirm('Are you sure to delete this record?')">
+                                                        <i class="far fa-trash-alt"></i>
+                                                    </button>
+                                                </div>
+                                            </form>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
                 </div>
+            </div>
+                
+            <div class="applications__aplications-update">
+
+            </div>
             </div>
         </div>
     </div>
