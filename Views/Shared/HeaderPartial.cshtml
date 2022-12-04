@@ -22,11 +22,16 @@
                 </ul>
             </nav>
             <div class="header__button-wrap">
-                <input type="button" class="header__button" value="Вход">
+                <button class="header__button btn btn-primary" value="Вход" data-bs-toggle="modal" data-bs-target="#exampleModal">Вход</button>
+
+                
+
                 <img src="~/images/svg/Вход.svg" alt="Email" class="intro__icon">
             </div>
-            
+
             </img>
         </div>
     </div>
 </header>
+
+@await Html.PartialAsync("SignOn")

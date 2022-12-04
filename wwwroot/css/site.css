@@ -510,3 +510,13 @@ a{
   color: #FFFFFF;
 }
 
+/*Sign on*/
+
+.modal-dialog{
+  width: 800px;
+}
+
+.modal-content{
+  width: 800px;
+  height: 500px;
+}
