@@ -16368,6 +16368,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Home\\AddEntry.cshtml",
+      "TargetPath": "Views\\Home\\AddEntry.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Хакатон\\Journalist\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"

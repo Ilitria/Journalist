@@ -1,4 +1,4 @@
-﻿/*(function(){
+﻿(function(){
     const header = document.querySelector('.header');
     window.onscroll = () => {
         if(window.pageYOffset > 50){
@@ -15,4 +15,4 @@
         }, 'fast');
         return this; // for chaining...
     }
-})(jQuery);*/
+})(jQuery);

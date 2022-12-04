@@ -23,7 +23,7 @@ namespace Journalist.Models
         public string Authors { get; set; }
 
         [Column(TypeName = "nvarchar(100)")]
-        [DisplayName("???")]
+        [DisplayName("Должность")]
         [Required(ErrorMessage ="Это поле обязательное")]
         public string Post { get; set; }
 
