@@ -15,12 +15,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Хакатон\Journalist
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Хакатон/Journalist/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[D:/Хакатон/Journalist/Views/Home/Applications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBcHBsaWNhdGlvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Хакатон/Journalist/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[D:/Хакатон/Journalist/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Хакатон/Journalist/Views/Shared/CssPartial.cshtml]
