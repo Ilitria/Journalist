@@ -472,7 +472,7 @@ a{
 }
 
 .content{
-  margin-bottom: 100px;
+  margin-bottom: 130px;
 }
 
 /* Footer */
@@ -480,7 +480,6 @@ a{
 .footer{
   background: #9F9F9F;
   height: 150px;
-  margin-top: 130px;
 }
 
 .footer__logo{
@@ -512,11 +511,86 @@ a{
 
 /*Sign on*/
 
-.modal-dialog{
-  width: 800px;
-}
-
 .modal-content{
   width: 800px;
   height: 500px;
+}
+
+/*Applications*/
+
+.applications{
+  background: url(../images/Фон.jpg) no-repeat center;
+  background-size: cover;
+  padding-top: 20px;
+  padding-bottom: 130px;
+}
+
+.applications__wrapper{
+  height: 1520px;
+  box-shadow: 0px 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background: white;
+  border-radius: 10px;
+  margin-bottom: 130px;
+  margin-top: 20px;
+}
+
+.applications__header{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  height: 80px;
+  padding-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
+  align-items: center;
+}
+
+.applications__combobox{
+  width: 260px;
+  height: 40px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.applications__title{
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 80px;
+  color: #000000;
+}
+
+.applications__buttons{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 371px;
+}
+
+.buttons__applications,
+.buttons__rate{
+  width: 170px;
+  height: 60px;
+  border-radius: 35px;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.buttons__rate{
+  background: #E1E1E1;
+  color: #000000;
+}
+
+.applications__line{
+  border-bottom: 2px solid rgba(0, 0, 0, 0.25);
+}
+
+.applications__content{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
 }
