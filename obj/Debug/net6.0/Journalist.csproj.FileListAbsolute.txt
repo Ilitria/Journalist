@@ -225,3 +225,11 @@ C:\Journalist\obj\Debug\net6.0\refint\Journalist.dll
 C:\Journalist\obj\Debug\net6.0\Journalist.pdb
 C:\Journalist\obj\Debug\net6.0\Journalist.genruntimeconfig.cache
 C:\Journalist\obj\Debug\net6.0\ref\Journalist.dll
+D:\Хакатон\Journalist\bin\Debug\net6.0\Humanizer.dll
+D:\Хакатон\Journalist\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Хакатон\Journalist\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Хакатон\Journalist\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Хакатон\Journalist\bin\Debug\net6.0\System.CodeDom.dll
+D:\Хакатон\Journalist\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Хакатон\Journalist\bin\Debug\net6.0\System.Text.Json.dll
+D:\Хакатон\Journalist\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
