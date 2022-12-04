@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Journalist\\Journalist.csproj",
+  "FilePath": "d:\\Хакатон\\Journalist\\Journalist.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -12,11 +12,7 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-<<<<<<< HEAD
-        "HashCode": 1729985468,
-=======
-        "HashCode": -1769108767,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1181464494,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -93,11 +89,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 635446800,
-=======
-        "HashCode": 1859427136,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 409837594,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -175,11 +167,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -458670243,
-=======
-        "HashCode": -199235175,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1027512680,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -210,11 +198,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -618045112,
-=======
-        "HashCode": -1661292923,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1467900621,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -246,11 +230,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1330757248,
-=======
-        "HashCode": 1651587171,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 2017134902,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -269,11 +249,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -331567096,
-=======
-        "HashCode": 368113781,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 854241635,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -293,11 +269,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -941567285,
-=======
-        "HashCode": 769843962,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1877307815,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -393,11 +365,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -66734819,
-=======
-        "HashCode": -2037176275,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -645667271,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -494,11 +462,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2015341297,
-=======
-        "HashCode": 1281187722,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1130499730,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -529,11 +493,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1020760827,
-=======
-        "HashCode": 197919763,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 311323284,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -565,11 +525,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -830640171,
-=======
-        "HashCode": -892163520,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1645467619,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -600,11 +556,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -301181144,
-=======
-        "HashCode": -1293975549,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -2047421912,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -636,11 +588,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -661017293,
-=======
-        "HashCode": -32423090,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 782024639,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -671,11 +619,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1391412843,
-=======
-        "HashCode": -1364321835,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1913517497,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -707,11 +651,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 728683189,
-=======
-        "HashCode": -1390509339,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -796570354,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -730,11 +670,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1195682221,
-=======
-        "HashCode": -881914897,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 24746643,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -754,11 +690,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1032197011,
-=======
-        "HashCode": -1893885776,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -998166487,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -786,11 +718,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1178663068,
-=======
-        "HashCode": 688910746,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1019400521,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -819,11 +747,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1593516741,
-=======
-        "HashCode": -478801364,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -162629734,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -842,11 +766,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 963783654,
-=======
-        "HashCode": 1305895946,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 56085291,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -866,11 +786,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1614584604,
-=======
-        "HashCode": 1390859378,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1534997952,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -939,11 +855,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -210644028,
-=======
-        "HashCode": -1588309359,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1976911847,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1013,11 +925,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1595772508,
-=======
-        "HashCode": -21752894,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1098565377,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1036,11 +944,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 852730965,
-=======
-        "HashCode": -1647938411,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -2015696821,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1060,11 +964,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1006255301,
-=======
-        "HashCode": -1610346797,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 730228464,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1102,11 +1002,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 322289648,
-=======
-        "HashCode": -1427069750,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 801371099,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1145,11 +1041,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1089458958,
-=======
-        "HashCode": 1782316843,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -648016637,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1187,11 +1079,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1666894212,
-=======
-        "HashCode": -1794095935,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 25742711,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1230,11 +1118,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 722961517,
-=======
-        "HashCode": 255753300,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1424866564,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1253,11 +1137,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1731454450,
-=======
-        "HashCode": -728032371,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 224694170,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1277,11 +1157,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -52985548,
-=======
-        "HashCode": 597527663,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 2123117904,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1319,11 +1195,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1947315557,
-=======
-        "HashCode": -927797051,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 243871008,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1362,11 +1234,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 515934569,
-=======
-        "HashCode": 1265936677,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1119714168,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1465,11 +1333,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1537684485,
-=======
-        "HashCode": -165638828,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -642260473,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1569,11 +1433,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 812118538,
-=======
-        "HashCode": -522178024,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -227758198,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1592,11 +1452,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -2028729931,
-=======
-        "HashCode": 256666781,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1824085781,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1616,11 +1472,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 846513578,
-=======
-        "HashCode": 1938989847,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 109163418,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1651,11 +1503,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -648717994,
-=======
-        "HashCode": 1082900459,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1126504304,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1687,11 +1535,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 286720390,
-=======
-        "HashCode": -709718386,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1496786597,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1710,11 +1554,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1682093328,
-=======
-        "HashCode": 1733792012,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 815285884,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1734,11 +1574,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -127303488,
-=======
-        "HashCode": -1831497140,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 507667285,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -1755,11 +1591,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1348105655,
-=======
-        "HashCode": -385240203,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1429889658,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -1777,11 +1609,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1666477690,
-=======
-        "HashCode": -1738840048,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 577762804,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1877,11 +1705,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 408771350,
-=======
-        "HashCode": 1685965287,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1367608274,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -1978,11 +1802,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -205851680,
-=======
-        "HashCode": 254280634,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 696268829,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2013,11 +1833,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -107357274,
-=======
-        "HashCode": -194354556,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1415298221,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2049,11 +1865,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1719232420,
-=======
-        "HashCode": -989878103,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1734815728,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2118,11 +1930,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1228765066,
-=======
-        "HashCode": -1220445686,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -457082525,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2188,11 +1996,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 59764226,
-=======
-        "HashCode": -1583041872,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 445579223,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2291,11 +2095,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -730423959,
-=======
-        "HashCode": -2011978437,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 401283155,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2395,11 +2195,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1814058346,
-=======
-        "HashCode": -416533683,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 732980805,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2437,11 +2233,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 185171141,
-=======
-        "HashCode": 470008340,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 629455607,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2480,11 +2272,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1661317760,
-=======
-        "HashCode": 1731901248,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 731855011,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2573,11 +2361,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 460589685,
-=======
-        "HashCode": 1372809287,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1876610403,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2667,11 +2451,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -2142151886,
-=======
-        "HashCode": 845040038,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -333096770,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2730,11 +2510,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1946706584,
-=======
-        "HashCode": 403475059,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -581548602,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2794,11 +2570,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1095446119,
-=======
-        "HashCode": -705009285,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 4488346,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2897,11 +2669,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1583825929,
-=======
-        "HashCode": -755324316,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 79535579,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3001,11 +2769,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -175040209,
-=======
-        "HashCode": -1623701272,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -90029592,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3024,11 +2788,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 856703262,
-=======
-        "HashCode": 456150739,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -606211884,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3048,11 +2808,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1566335232,
-=======
-        "HashCode": 1344382647,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 810942123,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3142,11 +2898,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1608574083,
-=======
-        "HashCode": 232130113,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1332080180,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3237,11 +2989,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1148560233,
-=======
-        "HashCode": 1262255082,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1724021095,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3260,11 +3008,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -507979086,
-=======
-        "HashCode": 1729077686,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1690507672,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3284,11 +3028,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 176226745,
-=======
-        "HashCode": -70930466,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 586754405,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3353,11 +3093,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1193401158,
-=======
-        "HashCode": -200896991,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1057999636,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3423,11 +3159,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 215473389,
-=======
-        "HashCode": 1399363632,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 406532972,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3492,11 +3224,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1977909266,
-=======
-        "HashCode": -1700087369,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 766407216,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3562,11 +3290,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2094069483,
-=======
-        "HashCode": -1410325077,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1461034189,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3616,11 +3340,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 479253014,
-=======
-        "HashCode": 960055837,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1502469781,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3671,11 +3391,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1162502158,
-=======
-        "HashCode": 938726309,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1687124268,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3712,11 +3428,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1971157986,
-=======
-        "HashCode": 1544471845,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1567728787,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3754,11 +3466,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 675996609,
-=======
-        "HashCode": 1505680646,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1244804919,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3795,11 +3503,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -273639122,
-=======
-        "HashCode": -847125477,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1020905771,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3837,11 +3541,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -814140846,
-=======
-        "HashCode": -126085104,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1686610601,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3898,11 +3598,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1787809371,
-=======
-        "HashCode": -1290969908,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1117144190,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3960,11 +3656,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -680075298,
-=======
-        "HashCode": -120680371,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -903245227,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3983,11 +3675,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -73390026,
-=======
-        "HashCode": 122535330,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1859289794,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4007,11 +3695,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1792992446,
-=======
-        "HashCode": -449977892,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1005329070,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4040,11 +3724,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -2048011555,
-=======
-        "HashCode": -1430230660,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1600542337,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4074,11 +3754,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1440966970,
-=======
-        "HashCode": 857617782,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1223299472,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4097,11 +3773,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -599359562,
-=======
-        "HashCode": -877615213,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1581851050,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4121,11 +3793,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1542378387,
-=======
-        "HashCode": 753722532,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -333238205,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4142,11 +3810,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -788392556,
-=======
-        "HashCode": -856273603,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1218303149,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4164,11 +3828,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1046689041,
-=======
-        "HashCode": -1876971659,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1181499466,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4197,11 +3857,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 367808407,
-=======
-        "HashCode": -1826487343,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1247124881,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4231,11 +3887,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 913716090,
-=======
-        "HashCode": -1945919872,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -260604017,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4254,11 +3906,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -759103559,
-=======
-        "HashCode": 1436268315,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1610040382,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4278,11 +3926,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -392148446,
-=======
-        "HashCode": -81770380,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -375658114,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4340,11 +3984,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -2016254131,
-=======
-        "HashCode": -344289302,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1388149008,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4403,11 +4043,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1638143201,
-=======
-        "HashCode": 2077152111,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 2073758525,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4426,11 +4062,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -496880030,
-=======
-        "HashCode": 815488837,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1966265923,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4450,11 +4082,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 873283950,
-=======
-        "HashCode": 1129841098,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1021041637,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4485,11 +4113,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1858432249,
-=======
-        "HashCode": -1664315501,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1305215956,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4521,11 +4145,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1261502475,
-=======
-        "HashCode": 151288216,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1327119095,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4637,11 +4257,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2094826166,
-=======
-        "HashCode": 2097178308,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1752001606,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4754,11 +4370,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -528799217,
-=======
-        "HashCode": -672387641,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 515202132,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4789,11 +4401,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1130736980,
-=======
-        "HashCode": -655014207,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -300196937,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4825,11 +4433,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1755922262,
-=======
-        "HashCode": -1954779492,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -502244048,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4860,11 +4464,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1125229991,
-=======
-        "HashCode": -1009515027,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1560256996,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4896,11 +4496,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1901208464,
-=======
-        "HashCode": -376356783,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1203987829,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4931,11 +4527,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1115522422,
-=======
-        "HashCode": 1881087352,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1822934871,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4967,11 +4559,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1361922521,
-=======
-        "HashCode": 1366334062,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 163862942,
         "Kind": "Components.EventHandler",
         "Name": "onfocus",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5052,11 +4640,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1574599355,
-=======
-        "HashCode": -126064487,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1327010945,
         "Kind": "Components.EventHandler",
         "Name": "onblur",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5137,11 +4721,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 162568352,
-=======
-        "HashCode": 266152396,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -252258131,
         "Kind": "Components.EventHandler",
         "Name": "onfocusin",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5222,11 +4802,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -36666452,
-=======
-        "HashCode": -1771213626,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -584754918,
         "Kind": "Components.EventHandler",
         "Name": "onfocusout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5307,11 +4883,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1883736824,
-=======
-        "HashCode": -1158738605,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1425270013,
         "Kind": "Components.EventHandler",
         "Name": "onmouseover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5392,11 +4964,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1093150434,
-=======
-        "HashCode": 567087921,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1060628732,
         "Kind": "Components.EventHandler",
         "Name": "onmouseout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5477,11 +5045,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 505854913,
-=======
-        "HashCode": -1930433412,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1160422249,
         "Kind": "Components.EventHandler",
         "Name": "onmousemove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5562,11 +5126,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1141128903,
-=======
-        "HashCode": 1493340380,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 107670388,
         "Kind": "Components.EventHandler",
         "Name": "onmousedown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5647,11 +5207,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1163311535,
-=======
-        "HashCode": -471598531,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 209760115,
         "Kind": "Components.EventHandler",
         "Name": "onmouseup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5732,11 +5288,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 905257636,
-=======
-        "HashCode": -706935226,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 447549712,
         "Kind": "Components.EventHandler",
         "Name": "onclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5817,11 +5369,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1351504543,
-=======
-        "HashCode": -200237239,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 758429924,
         "Kind": "Components.EventHandler",
         "Name": "ondblclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5902,11 +5450,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1169082153,
-=======
-        "HashCode": -282363096,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 874951132,
         "Kind": "Components.EventHandler",
         "Name": "onwheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5987,11 +5531,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -156762119,
-=======
-        "HashCode": 1915916532,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -258047498,
         "Kind": "Components.EventHandler",
         "Name": "onmousewheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6072,11 +5612,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1690253251,
-=======
-        "HashCode": -1635267393,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 800812363,
         "Kind": "Components.EventHandler",
         "Name": "oncontextmenu",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6157,11 +5693,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 834563237,
-=======
-        "HashCode": -510289956,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -231816352,
         "Kind": "Components.EventHandler",
         "Name": "ondrag",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6242,11 +5774,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 117907938,
-=======
-        "HashCode": 1952966664,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 37048797,
         "Kind": "Components.EventHandler",
         "Name": "ondragend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6327,11 +5855,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2111527123,
-=======
-        "HashCode": -2060427546,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1209780306,
         "Kind": "Components.EventHandler",
         "Name": "ondragenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6412,11 +5936,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2049113022,
-=======
-        "HashCode": 665272107,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 621913589,
         "Kind": "Components.EventHandler",
         "Name": "ondragleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6497,11 +6017,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1056808579,
-=======
-        "HashCode": 1628238789,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 538274183,
         "Kind": "Components.EventHandler",
         "Name": "ondragover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6582,11 +6098,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -90050709,
-=======
-        "HashCode": -1136837317,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -813103023,
         "Kind": "Components.EventHandler",
         "Name": "ondragstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6667,11 +6179,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -500119154,
-=======
-        "HashCode": 1849924874,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -841546668,
         "Kind": "Components.EventHandler",
         "Name": "ondrop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6752,11 +6260,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 506939709,
-=======
-        "HashCode": -2008081570,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 426255023,
         "Kind": "Components.EventHandler",
         "Name": "onkeydown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6837,11 +6341,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -723516981,
-=======
-        "HashCode": 1766990442,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 405302788,
         "Kind": "Components.EventHandler",
         "Name": "onkeyup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6922,11 +6422,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1852583109,
-=======
-        "HashCode": -740259557,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 85176441,
         "Kind": "Components.EventHandler",
         "Name": "onkeypress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7007,11 +6503,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1792887542,
-=======
-        "HashCode": -972178183,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1762627328,
         "Kind": "Components.EventHandler",
         "Name": "onchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7092,11 +6584,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1509229309,
-=======
-        "HashCode": -709839861,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1391253174,
         "Kind": "Components.EventHandler",
         "Name": "oninput",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7177,11 +6665,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1493597598,
-=======
-        "HashCode": -1858821772,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -378850000,
         "Kind": "Components.EventHandler",
         "Name": "oninvalid",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7262,11 +6746,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -434963896,
-=======
-        "HashCode": -1278667876,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 2100046031,
         "Kind": "Components.EventHandler",
         "Name": "onreset",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7347,11 +6827,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1641777879,
-=======
-        "HashCode": -323524082,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1580094490,
         "Kind": "Components.EventHandler",
         "Name": "onselect",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7432,11 +6908,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -283024960,
-=======
-        "HashCode": 955487439,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 247237673,
         "Kind": "Components.EventHandler",
         "Name": "onselectstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7517,11 +6989,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 108385264,
-=======
-        "HashCode": -378413418,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -292438594,
         "Kind": "Components.EventHandler",
         "Name": "onselectionchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7602,11 +7070,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -226977460,
-=======
-        "HashCode": -1120502646,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 978297110,
         "Kind": "Components.EventHandler",
         "Name": "onsubmit",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7687,11 +7151,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1920834274,
-=======
-        "HashCode": -1428426302,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1225979103,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7772,11 +7232,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1573334907,
-=======
-        "HashCode": 347830069,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1662458620,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7857,11 +7313,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -2081752848,
-=======
-        "HashCode": 1921269298,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 586136399,
         "Kind": "Components.EventHandler",
         "Name": "onbeforepaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7942,11 +7394,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -717000403,
-=======
-        "HashCode": 445115629,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1613444710,
         "Kind": "Components.EventHandler",
         "Name": "oncopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8027,11 +7475,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -848591187,
-=======
-        "HashCode": 662120448,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1005090111,
         "Kind": "Components.EventHandler",
         "Name": "oncut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8112,11 +7556,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 832959490,
-=======
-        "HashCode": 986587940,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -2122227901,
         "Kind": "Components.EventHandler",
         "Name": "onpaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8197,11 +7637,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1986727777,
-=======
-        "HashCode": -23808887,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1718643734,
         "Kind": "Components.EventHandler",
         "Name": "ontouchcancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8282,11 +7718,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1190268890,
-=======
-        "HashCode": 754507758,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 30958524,
         "Kind": "Components.EventHandler",
         "Name": "ontouchend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8367,11 +7799,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1900003930,
-=======
-        "HashCode": 1993141654,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 185055797,
         "Kind": "Components.EventHandler",
         "Name": "ontouchmove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8452,11 +7880,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1509844645,
-=======
-        "HashCode": -661971626,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -884548149,
         "Kind": "Components.EventHandler",
         "Name": "ontouchstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8537,11 +7961,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 344252425,
-=======
-        "HashCode": -734280575,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1283873582,
         "Kind": "Components.EventHandler",
         "Name": "ontouchenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8622,11 +8042,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1636674930,
-=======
-        "HashCode": 172030109,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -372593124,
         "Kind": "Components.EventHandler",
         "Name": "ontouchleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8707,11 +8123,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2046875372,
-=======
-        "HashCode": 1081803701,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1562788606,
         "Kind": "Components.EventHandler",
         "Name": "ongotpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8792,11 +8204,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1335449388,
-=======
-        "HashCode": 1888618004,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1088730922,
         "Kind": "Components.EventHandler",
         "Name": "onlostpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8877,11 +8285,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -553844434,
-=======
-        "HashCode": -205329341,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1674425923,
         "Kind": "Components.EventHandler",
         "Name": "onpointercancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8962,11 +8366,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1083367861,
-=======
-        "HashCode": 326207972,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 2089766596,
         "Kind": "Components.EventHandler",
         "Name": "onpointerdown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9047,11 +8447,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1389305078,
-=======
-        "HashCode": -299327386,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 522180324,
         "Kind": "Components.EventHandler",
         "Name": "onpointerenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9132,11 +8528,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1116434659,
-=======
-        "HashCode": -257461653,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 55215443,
         "Kind": "Components.EventHandler",
         "Name": "onpointerleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9217,11 +8609,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 593968129,
-=======
-        "HashCode": -434312603,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1557691423,
         "Kind": "Components.EventHandler",
         "Name": "onpointermove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9302,11 +8690,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 287071302,
-=======
-        "HashCode": -546399572,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1597359362,
         "Kind": "Components.EventHandler",
         "Name": "onpointerout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9387,11 +8771,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1596557175,
-=======
-        "HashCode": 2099984532,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -215646026,
         "Kind": "Components.EventHandler",
         "Name": "onpointerover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9472,11 +8852,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1201993986,
-=======
-        "HashCode": 405157699,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1059848198,
         "Kind": "Components.EventHandler",
         "Name": "onpointerup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9557,11 +8933,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 171775453,
-=======
-        "HashCode": 2107425181,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 2034819698,
         "Kind": "Components.EventHandler",
         "Name": "oncanplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9642,11 +9014,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -13143342,
-=======
-        "HashCode": 298865279,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1625035864,
         "Kind": "Components.EventHandler",
         "Name": "oncanplaythrough",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9727,11 +9095,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1383321422,
-=======
-        "HashCode": -914363130,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 876581878,
         "Kind": "Components.EventHandler",
         "Name": "oncuechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9812,11 +9176,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 846091850,
-=======
-        "HashCode": -81368757,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 787255812,
         "Kind": "Components.EventHandler",
         "Name": "ondurationchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9897,11 +9257,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1237998023,
-=======
-        "HashCode": 677747680,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1323791051,
         "Kind": "Components.EventHandler",
         "Name": "onemptied",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9982,11 +9338,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1327548569,
-=======
-        "HashCode": -1349876119,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 875829866,
         "Kind": "Components.EventHandler",
         "Name": "onpause",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10067,11 +9419,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -751608683,
-=======
-        "HashCode": 1062543011,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1574408439,
         "Kind": "Components.EventHandler",
         "Name": "onplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10152,11 +9500,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1781507611,
-=======
-        "HashCode": -54276858,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 106771092,
         "Kind": "Components.EventHandler",
         "Name": "onplaying",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10237,11 +9581,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1267578703,
-=======
-        "HashCode": -2074218215,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1128612536,
         "Kind": "Components.EventHandler",
         "Name": "onratechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10322,11 +9662,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 146783317,
-=======
-        "HashCode": 995909738,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -494095411,
         "Kind": "Components.EventHandler",
         "Name": "onseeked",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10407,11 +9743,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2016102347,
-=======
-        "HashCode": 422368576,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1577510081,
         "Kind": "Components.EventHandler",
         "Name": "onseeking",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10492,11 +9824,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 625051168,
-=======
-        "HashCode": -1717212528,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1197603462,
         "Kind": "Components.EventHandler",
         "Name": "onstalled",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10577,11 +9905,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -656399505,
-=======
-        "HashCode": 31011031,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 138794727,
         "Kind": "Components.EventHandler",
         "Name": "onstop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10662,11 +9986,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1850979895,
-=======
-        "HashCode": -419090889,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 910185760,
         "Kind": "Components.EventHandler",
         "Name": "onsuspend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10747,11 +10067,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 121990283,
-=======
-        "HashCode": -52192301,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1133607689,
         "Kind": "Components.EventHandler",
         "Name": "ontimeupdate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10832,11 +10148,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 687481944,
-=======
-        "HashCode": -1951861753,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1070166136,
         "Kind": "Components.EventHandler",
         "Name": "onvolumechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10917,11 +10229,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1334148641,
-=======
-        "HashCode": -2077388782,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1225386218,
         "Kind": "Components.EventHandler",
         "Name": "onwaiting",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11002,11 +10310,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1517647188,
-=======
-        "HashCode": -116995261,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1106464928,
         "Kind": "Components.EventHandler",
         "Name": "onloadstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11087,11 +10391,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 730329149,
-=======
-        "HashCode": 1976863238,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1437675431,
         "Kind": "Components.EventHandler",
         "Name": "ontimeout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11172,11 +10472,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1320435387,
-=======
-        "HashCode": 1254298091,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 337817148,
         "Kind": "Components.EventHandler",
         "Name": "onabort",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11257,11 +10553,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 669919591,
-=======
-        "HashCode": -703111561,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 406764107,
         "Kind": "Components.EventHandler",
         "Name": "onload",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11342,11 +10634,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1928437233,
-=======
-        "HashCode": 619500784,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1343927143,
         "Kind": "Components.EventHandler",
         "Name": "onloadend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11427,11 +10715,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 526003050,
-=======
-        "HashCode": -1732555904,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 631789227,
         "Kind": "Components.EventHandler",
         "Name": "onprogress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11512,11 +10796,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1907742274,
-=======
-        "HashCode": 1823074936,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 844042986,
         "Kind": "Components.EventHandler",
         "Name": "onerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11597,11 +10877,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1742886274,
-=======
-        "HashCode": -1987500407,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 136147178,
         "Kind": "Components.EventHandler",
         "Name": "onactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11682,11 +10958,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -221450668,
-=======
-        "HashCode": 317953370,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -2017924901,
         "Kind": "Components.EventHandler",
         "Name": "onbeforeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11767,11 +11039,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1423344915,
-=======
-        "HashCode": 1545182302,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -2134793298,
         "Kind": "Components.EventHandler",
         "Name": "onbeforedeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11852,11 +11120,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -157467741,
-=======
-        "HashCode": 1121388087,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1931042014,
         "Kind": "Components.EventHandler",
         "Name": "ondeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11937,11 +11201,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 256302774,
-=======
-        "HashCode": -1047226556,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1839690230,
         "Kind": "Components.EventHandler",
         "Name": "onended",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12022,11 +11282,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1018294803,
-=======
-        "HashCode": -1413175459,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -624095772,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12107,11 +11363,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -312047493,
-=======
-        "HashCode": 991601828,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1455615116,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12192,11 +11444,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 178211378,
-=======
-        "HashCode": 853746724,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 28689708,
         "Kind": "Components.EventHandler",
         "Name": "onloadeddata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12277,11 +11525,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1327461889,
-=======
-        "HashCode": 2044384106,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1588522121,
         "Kind": "Components.EventHandler",
         "Name": "onloadedmetadata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12362,11 +11606,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 326140932,
-=======
-        "HashCode": -573876121,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1502845318,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12447,11 +11687,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1404390573,
-=======
-        "HashCode": -957428298,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1655308933,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12532,11 +11768,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1358625126,
-=======
-        "HashCode": -620955853,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -478837821,
         "Kind": "Components.EventHandler",
         "Name": "onreadystatechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12617,11 +11849,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1299192212,
-=======
-        "HashCode": -537044079,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1206390831,
         "Kind": "Components.EventHandler",
         "Name": "onscroll",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12702,11 +11930,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -336327082,
-=======
-        "HashCode": 988391426,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -957775165,
         "Kind": "Components.EventHandler",
         "Name": "ontoggle",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12787,11 +12011,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 792172764,
-=======
-        "HashCode": 53231431,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 447594680,
         "Kind": "Components.Splat",
         "Name": "Attributes",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12830,11 +12050,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -2129395671,
-=======
-        "HashCode": 921824236,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1733209284,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.Razor",
@@ -13149,11 +12365,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1254995991,
-=======
-        "HashCode": 837077355,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -313348438,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13350,11 +12562,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -332452065,
-=======
-        "HashCode": -1115858848,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -708266178,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.CacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13481,11 +12689,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1329500064,
-=======
-        "HashCode": 1399076608,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1709810102,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ComponentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13540,11 +12744,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 993258710,
-=======
-        "HashCode": -830782563,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1293497220,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.DistributedCacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13676,11 +12876,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 694311561,
-=======
-        "HashCode": -461411463,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1516093850,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -13726,11 +12922,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 390008717,
-=======
-        "HashCode": -1876966603,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -59250502,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormActionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14147,11 +13339,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1367248239,
-=======
-        "HashCode": -1641004631,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 289069307,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14253,11 +13441,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2090730999,
-=======
-        "HashCode": 92581325,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1927348257,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ImageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14303,11 +13487,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1719483378,
-=======
-        "HashCode": -2124543536,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 602807003,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14377,11 +13557,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 25474119,
-=======
-        "HashCode": -605874264,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -370100280,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14414,11 +13590,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 618389971,
-=======
-        "HashCode": -222147030,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1902181814,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14614,11 +13786,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1185363041,
-=======
-        "HashCode": -1404367504,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -290594458,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.OptionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14646,11 +13814,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -725130022,
-=======
-        "HashCode": 969733475,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1320539357,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14731,11 +13895,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 752073736,
-=======
-        "HashCode": 1039565061,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1892407391,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PersistComponentStateTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14764,11 +13924,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -430941736,
-=======
-        "HashCode": 1749698695,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1234145176,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ScriptTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14921,11 +14077,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1500137141,
-=======
-        "HashCode": -1471237540,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1122998168,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14984,11 +14136,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1440050762,
-=======
-        "HashCode": 97558262,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1455745667,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.TextAreaTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15030,11 +14178,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1396343808,
-=======
-        "HashCode": -1859286487,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1894431783,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15067,11 +14211,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -2024349405,
-=======
-        "HashCode": -542512516,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1408718790,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15105,11 +14245,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1419898698,
-=======
-        "HashCode": -2017721644,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1302825936,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15178,11 +14314,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 225087478,
-=======
-        "HashCode": -1401940115,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 374086348,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15260,11 +14392,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 311261038,
-=======
-        "HashCode": -1415058874,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 750558901,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15342,11 +14470,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1338163825,
-=======
-        "HashCode": -477390373,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1074433195,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15430,11 +14554,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -589158688,
-=======
-        "HashCode": -832422647,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 315384667,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15518,11 +14638,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1466158332,
-=======
-        "HashCode": -1343284877,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1267325521,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15606,11 +14722,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1849738813,
-=======
-        "HashCode": 1161369063,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 360038908,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15694,11 +14806,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1763956660,
-=======
-        "HashCode": 1076903635,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1255024138,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15782,11 +14890,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2461360,
-=======
-        "HashCode": -464958103,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -2118457198,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15870,11 +14974,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 518623102,
-=======
-        "HashCode": -1773696031,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -37111236,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15958,11 +15058,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1707914659,
-=======
-        "HashCode": 496948519,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 214536073,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16046,11 +15142,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1595173992,
-=======
-        "HashCode": 247594707,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1936724170,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16134,11 +15226,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1310810658,
-=======
-        "HashCode": -1353319619,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -187675253,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16222,11 +15310,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 517290851,
-=======
-        "HashCode": -2007433229,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -990185118,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16310,11 +15394,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1278853002,
-=======
-        "HashCode": -1456874666,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 2031622292,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16398,11 +15478,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1350387647,
-=======
-        "HashCode": -1275728419,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 75905658,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16480,11 +15556,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1598769635,
-=======
-        "HashCode": 1770332730,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1018105132,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16562,11 +15634,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -565637601,
-=======
-        "HashCode": -1956948370,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 143818356,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16607,11 +15675,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 194328843,
-=======
-        "HashCode": 67027027,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1127532186,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16653,11 +15717,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1481514672,
-=======
-        "HashCode": -2021245719,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -674364013,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16698,11 +15758,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1896833349,
-=======
-        "HashCode": 13427674,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 62781581,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16744,11 +15800,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -217404961,
-=======
-        "HashCode": -3849311,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -480492905,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16789,11 +15841,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1400804885,
-=======
-        "HashCode": -1727428908,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -898997992,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16835,11 +15883,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 310344707,
-=======
-        "HashCode": 1658360391,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1759899330,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16880,11 +15924,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1348687440,
-=======
-        "HashCode": -529016146,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 2015804304,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16926,11 +15966,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1527960747,
-=======
-        "HashCode": -765581584,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1945594080,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16971,11 +16007,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1616489689,
-=======
-        "HashCode": -2076333971,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1349478729,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17017,11 +16049,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1038903608,
-=======
-        "HashCode": -841232123,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1729078437,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17062,11 +16090,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 537001499,
-=======
-        "HashCode": -292184681,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1260055379,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17108,11 +16132,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -1524405807,
-=======
-        "HashCode": 189711242,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -438304932,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17153,11 +16173,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 1411204903,
-=======
-        "HashCode": -1131749124,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -1897252374,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17199,11 +16215,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": -561244138,
-=======
-        "HashCode": 939841462,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": 1953273442,
         "Kind": "Components.Ref",
         "Name": "Ref",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17242,11 +16254,7 @@
         }
       },
       {
-<<<<<<< HEAD
-        "HashCode": 2019963025,
-=======
-        "HashCode": -364569723,
->>>>>>> origin/AddDbConnection-v1
+        "HashCode": -480897756,
         "Kind": "Components.Key",
         "Name": "Key",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17290,9 +16298,18 @@
   "RootNamespace": "Journalist",
   "Documents": [
     {
-<<<<<<< HEAD
-      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\InformationPartial.cshtml",
-      "TargetPath": "Views\\Shared\\InformationPartial.cshtml",
+      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\HeaderPartial.cshtml",
+      "TargetPath": "Views\\Shared\\HeaderPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\ScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\ScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\MetaTagsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\MetaTagsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -17301,42 +16318,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\SignOn.cshtml",
-      "TargetPath": "Views\\Shared\\SignOn.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\HeaderPartial.cshtml",
-      "TargetPath": "Views\\Shared\\HeaderPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Home\\Applications.cshtml",
-      "TargetPath": "Views\\Home\\Applications.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\IntroPartial.cshtml",
-=======
-      "FilePath": "c:\\Journalist\\Views\\Shared\\IntroPartial.cshtml",
->>>>>>> origin/AddDbConnection-v1
       "TargetPath": "Views\\Shared\\IntroPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-<<<<<<< HEAD
-      "FilePath": "d:\\Хакатон\\Journalist\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\FooterPartial.cshtml",
-      "TargetPath": "Views\\Shared\\FooterPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -17345,89 +16333,43 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\SignOn.cshtml",
+      "TargetPath": "Views\\Shared\\SignOn.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\ScriptsPartial.cshtml",
-=======
-      "FilePath": "c:\\Journalist\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Home\\Applications.cshtml",
+      "TargetPath": "Views\\Home\\Applications.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Journalist\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Journalist\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Journalist\\Views\\Shared\\InformationPartial.cshtml",
-      "TargetPath": "Views\\Shared\\InformationPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Journalist\\Views\\Shared\\CssPartial.cshtml",
-      "TargetPath": "Views\\Shared\\CssPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Journalist\\Views\\Shared\\ScriptsPartial.cshtml",
->>>>>>> origin/AddDbConnection-v1
-      "TargetPath": "Views\\Shared\\ScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-<<<<<<< HEAD
-      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\Error.cshtml",
-=======
-      "FilePath": "c:\\Journalist\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Journalist\\Views\\Shared\\Error.cshtml",
->>>>>>> origin/AddDbConnection-v1
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-<<<<<<< HEAD
-      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\MetaTagsPartial.cshtml",
-=======
-      "FilePath": "c:\\Journalist\\Views\\Shared\\HeaderPartial.cshtml",
-      "TargetPath": "Views\\Shared\\HeaderPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Journalist\\Views\\Shared\\FooterPartial.cshtml",
+      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\FooterPartial.cshtml",
       "TargetPath": "Views\\Shared\\FooterPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Journalist\\Views\\Shared\\MetaTagsPartial.cshtml",
->>>>>>> origin/AddDbConnection-v1
-      "TargetPath": "Views\\Shared\\MetaTagsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-<<<<<<< HEAD
       "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-=======
-      "FilePath": "c:\\Journalist\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Journalist\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
->>>>>>> origin/AddDbConnection-v1
+      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\InformationPartial.cshtml",
+      "TargetPath": "Views\\Shared\\InformationPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Хакатон\\Journalist\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],
