@@ -16318,6 +16318,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\AddOrEdit.cshtml",
+      "TargetPath": "Views\\Shared\\AddOrEdit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\HeaderPartial.cshtml",
       "TargetPath": "Views\\Shared\\HeaderPartial.cshtml",
       "FileKind": "mvc"
@@ -16360,11 +16365,6 @@
     {
       "FilePath": "d:\\Хакатон\\Journalist\\Views\\Shared\\ScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\ScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Хакатон\\Journalist\\Views\\Home\\AddEntry.cshtml",
-      "TargetPath": "Views\\Home\\AddEntry.cshtml",
       "FileKind": "mvc"
     },
     {

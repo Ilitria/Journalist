@@ -48,7 +48,7 @@
                 </div>
                 <div class="content__info">
                     <p class="content__text">Регистрация на конкурс журналистики Оренбургской области  в самом разгаре! Подай заявку и поборись за приз, участие бесплатно! До старта осталось 9 дней!</p>
-                    <input type="button" class="content__button" value="Подать заявку">
+                    <button class="content__button btn btn-primary" value="Вход" data-bs-toggle="modal" data-bs-target="#exampleModal">Подать заявку</button>
                 </div>
             </div>
         </div>
@@ -92,6 +92,9 @@
         </div>
     </div>
 </selection>
+
+
+@await Html.PartialAsync("SignOn")
 
 
 
